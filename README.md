@@ -16,9 +16,9 @@
 ---
 
 ## 📂 Projetos em destaque
-- 🔹 **Framework de Testes Automatizados com Selenium** – Estrutura modular para testes de UI  
-- 🔹 **Automação de APIs com Postman** – Coleções e scripts para validação de endpoints  
-- 🔹 **Integração de testes em pipelines CI/CD** – Execução automatizada em ambientes de build  
+🔹 **Framework de Testes Automatizados com Selenium** – Estrutura modular para testes de UI  
+🔹 **Automação de APIs com Postman** – Coleções e scripts para validação de endpoints  
+🔹 **Integração de testes em pipelines CI/CD** – Execução automatizada em ambientes de build  
 
 ---
 
