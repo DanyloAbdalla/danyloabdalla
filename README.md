@@ -16,6 +16,7 @@
 ---
 
 ## 📂 Projetos em destaque
+🔹 **[Testes Automatizados - Trade Marketing]** – https://github.com/DanyloAbdalla/trade-marketing-tests  
 🔹 **Framework de Testes Automatizados com Selenium** – Estrutura modular para testes de UI  
 🔹 **Automação de APIs com Postman** – Coleções e scripts para validação de endpoints  
 🔹 **Integração de testes em pipelines CI/CD** – Execução automatizada em ambientes de build  
